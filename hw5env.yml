@@ -1,0 +1,4 @@
+name: hw5env
+channels:
+  - defaults
+prefix: /Users/emmahathaway/opt/anaconda3/envs/hw5env
